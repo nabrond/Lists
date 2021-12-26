@@ -1,17 +1,5 @@
 # ------------------------------------[UPDATE]--------------------------------------
-# Title: The Block List Project - Facebook List
-# Expires: 1 day
-# Homepage: https://blocklist.site
-# Help: https://github.com/blocklistproject/lists/wiki/
-# License: https://unlicense.org
-# Total number of network filters: 22459
-# ------------------------------------[SUPPORT]-------------------------------------
-# You can support by:
-#  - reporting false positives
-#  - making a donation: https://paypal.me/blocklistproject
-# -------------------------------------[INFO]---------------------------------------
-#
-# Facebook list
+# Custom Facebook-Only list
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 0-1.fb.me
 0.0.0.0 0-144-243f1.fbjs.facebook.com
@@ -35,7 +23,6 @@
 0.0.0.0 1.messenger.com
 0.0.0.0 1csrvvr.dns.facebook.com
 0.0.0.0 1csuma6.dns.facebook.com
-0.0.0.0 1eb93.live.oculusvr.com
 0.0.0.0 1j65ya4.dns.facebook.com
 0.0.0.0 1pp1hvg.dns.facebook.com
 0.0.0.0 1sbipau.dns.facebook.com
@@ -50,7 +37,6 @@
 0.0.0.0 2.201513w27uc.dns.facebook.com
 0.0.0.0 2a.new.facebook.com
 0.0.0.0 2fcdn.fbsbx.com
-0.0.0.0 2fforums.oculusvr.com
 0.0.0.0 2fh9l6gj.dns.facebook.com
 0.0.0.0 2fl.messenger.com
 0.0.0.0 2flookaside.fbsbx.com
@@ -104,7 +90,6 @@
 0.0.0.0 18.152055qnll.dns.facebook.com
 0.0.0.0 18.1520152055qnll.dns.facebook.com
 0.0.0.0 21a4lt.dns.facebook.com
-0.0.0.0 22e68.live.oculusvr.com
 0.0.0.0 24im.messenger.com
 0.0.0.0 29ht-bxwj4zk60.id-id.prod.facebook.com
 0.0.0.0 31r5v8.dns.facebook.com
@@ -127,8 +112,6 @@
 0.0.0.0 157.240.18.1520152055qnll.dns.facebook.com
 0.0.0.0 163.facebook.com
 0.0.0.0 168.messenger.com
-0.0.0.0 181utodiscover.oculusvr.com
-0.0.0.0 238-250.autodiscover.oculusvr.com
 0.0.0.0 240.2.2018.1513w27uc.dns.facebook.com
 0.0.0.0 240.2.201513w27uc.dns.facebook.com
 0.0.0.0 240.18.152.201513w27uc.dns.facebook.com
@@ -146,7 +129,6 @@
 0.0.0.0 818-v-ironmask.messenger.com
 0.0.0.0 1513w27uc.dns.facebook.com
 0.0.0.0 1518.152055qnll.dns.facebook.com
-0.0.0.0 2013zhenqianqipaiyouxipaimingive.oculusvr.com
 0.0.0.0 2018.1513w27uc.dns.facebook.com
 0.0.0.0 2019.fb.me
 0.0.0.0 2055qnll.dns.facebook.com
@@ -213,7 +195,6 @@
 0.0.0.0 a.ns.xx.fbcdn.net
 0.0.0.0 a.ns.xy.fbcdn.net
 0.0.0.0 a.ns.xz.fbcdn.net
-0.0.0.0 a.r.oculusvr.com
 0.0.0.0 a.update.fbsbx.com
 0.0.0.0 aap.lite.facebook.com
 0.0.0.0 abadmin.facebook.com
@@ -225,7 +206,6 @@
 0.0.0.0 accenture.facebook.com
 0.0.0.0 accesadistance.cinyour.facebook.com
 0.0.0.0 access.fb.com
-0.0.0.0 account.oculus.com
 0.0.0.0 account.whatsapp.com
 0.0.0.0 accounts-graph.facebook.com
 0.0.0.0 accountsecuritylockdown.internmc.facebook.com
@@ -612,7 +592,6 @@
 0.0.0.0 anonymousmask.beta.facebook.com
 0.0.0.0 anonymousmask.scgraph.facebook.com
 0.0.0.0 anothermask.cinyour.facebook.com
-0.0.0.0 answers.oculus.com
 0.0.0.0 anti-virus-rants.messenger.com
 0.0.0.0 any-graph.facebook.com
 0.0.0.0 anywhere.truevisions.tv.fb.me
@@ -621,9 +600,7 @@
 0.0.0.0 api4.fb.me
 0.0.0.0 api-qa.giphy.com
 0.0.0.0 api-read.facebook.com
-0.0.0.0 api-stage.p.oculusvr.com
 0.0.0.0 api-video.facebook.com
-0.0.0.0 api.13.oculusvr.com
 0.0.0.0 api.alpha.facebook.com
 0.0.0.0 api.beta.facebook.com
 0.0.0.0 api.facebook.com
@@ -637,11 +614,9 @@
 0.0.0.0 api.whatsapp.com
 0.0.0.0 apmlw9a7.dns.facebook.com
 0.0.0.0 apmms.fb.com
-0.0.0.0 apollo-mod.oculusvr.com
 0.0.0.0 app.beta.facebook.com
 0.0.0.0 app.fbjs.facebook.com
 0.0.0.0 appa.fbjs.facebook.com
-0.0.0.0 apparel.ko.share.oculusvr.com
 0.0.0.0 appl.lite.facebook.com
 0.0.0.0 applicationms-my.fbjs.facebook.com
 0.0.0.0 applink.instagram.com
@@ -1399,7 +1374,6 @@
 0.0.0.0 ar.yearinreview.fb.com
 0.0.0.0 arcade-qa.giphy.com
 0.0.0.0 arcade.giphy.com
-0.0.0.0 archiv.oculusvr.com
 0.0.0.0 argentinasinvacunas.beta.facebook.com
 0.0.0.0 artificialintelligence-notes.fb.me
 0.0.0.0 artistawake.facebook.com
@@ -1444,10 +1418,7 @@
 0.0.0.0 atlasalpha-shv-09-frc3.facebook.com
 0.0.0.0 atlascopco.facebook.com
 0.0.0.0 atlasinyour-shv-05-ash3.facebook.com
-0.0.0.0 atmosphere.oculusvr.com
 0.0.0.0 atriumlookaside.fbsbx.com
-0.0.0.0 ats-beaver.pbr.oculusvr.com
-0.0.0.0 ats-mab.oculusvr.com
 0.0.0.0 attachment.fbsbx.com
 0.0.0.0 attachments.facebook.com
 0.0.0.0 au.newsroom.fb.com
@@ -1455,21 +1426,12 @@
 0.0.0.0 audience.fb.com
 0.0.0.0 aura-11-01-snc7.facebook.com
 0.0.0.0 australia.fb.com
-0.0.0.0 auth2.catalogue.oculusvr.com
 0.0.0.0 auth-www.fbjs.facebook.com
-0.0.0.0 auth.oculus.com
 0.0.0.0 autoconfig.new.facebook.com
-0.0.0.0 autodiscover-66g.oculusvr.com
-0.0.0.0 autodiscover-bess.oculusvr.com
-0.0.0.0 autodiscover-bshsky.oculusvr.com
-0.0.0.0 autodiscover-ipaywakemedical1.oculusvr.com
 0.0.0.0 autodiscover.fb.com
 0.0.0.0 autodiscover.instagram.com
 0.0.0.0 autodiscover.messenger.com
-0.0.0.0 autodiscover.oculus.com
-0.0.0.0 autodiscover.oculusvr.com
 0.0.0.0 autodiscover.whatsapp.com
-0.0.0.0 autodiscoveroxfgsr02.oculusvr.com
 0.0.0.0 autodiscovid-survey.facebookbrand-2018-dev.fb.com
 0.0.0.0 autodiscovid-survey.facebookbrand-2018-preprod.fb.com
 0.0.0.0 autodiscovid-survey.facebookbrand-2018-release.fb.com
@@ -1486,19 +1448,13 @@
 0.0.0.0 autodiscovides.facebookbrand-2018-release.fb.com
 0.0.0.0 autodiscovides.facebookbrand-preprod.fb.com
 0.0.0.0 autodiscovides.facebookbrand-release.fb.com
-0.0.0.0 auxx.oculusvr.com
-0.0.0.0 avatar2.13.oculusvr.com
-0.0.0.0 avatar2.z.oculusvr.com
 0.0.0.0 avg-anti-virus-free.cinyourrc.facebook.com
-0.0.0.0 awaji-mandai-jp.oculusvr.com
 0.0.0.0 awh1h1q7.dns.facebook.com
 0.0.0.0 ax7bmcgf-cay.es-la.fbjs.facebook.com
-0.0.0.0 axian993.oculusvr.com
 0.0.0.0 axiata.m.facebook.com
 0.0.0.0 axiomcc.facebook.com
 0.0.0.0 axis.0.fb.me
 0.0.0.0 axis.m.facebook.com
-0.0.0.0 axonitered.gina.emailtrack.oculusvr.com
 0.0.0.0 az-az.aap.lite.facebook.com
 0.0.0.0 az-az.ad-dk.lite.facebook.com
 0.0.0.0 az-az.ar-ar.developers.prod.facebook.com
@@ -1588,7 +1544,6 @@
 0.0.0.0 badges.instagram.com
 0.0.0.0 baijialemask.facebookbrand-preprod.fb.com
 0.0.0.0 baijialemask.messenger.com
-0.0.0.0 baijialeyulechengwangzhilive.oculusvr.com
 0.0.0.0 bajolamascara.facebook.messenger.com
 0.0.0.0 bancoripley.facebook.com
 0.0.0.0 banuba-live-selfie-filters-and-face-masks-camera.internmcr.facebook.com
@@ -1596,7 +1551,6 @@
 0.0.0.0 bayanmaskara.beta.messenger.com
 0.0.0.0 bb01.cdg1.tfbnw.net
 0.0.0.0 bb01.sea1.tfbnw.net
-0.0.0.0 bbds.oculusvr.com
 0.0.0.0 bbs.messenger.com
 0.0.0.0 bc.facebook.com
 0.0.0.0 bd.m.facebook.com
@@ -1728,7 +1682,6 @@
 0.0.0.0 bidder-shv-05-frc3.facebook.com
 0.0.0.0 bidder-shv-10-frc1.facebook.com
 0.0.0.0 bidv.m.facebook.com
-0.0.0.0 big8686-com.autodiscover.oculusvr.com
 0.0.0.0 bigzipfiles.facebook.com
 0.0.0.0 bigzipfiles.messenger.com
 0.0.0.0 billingl.fbjs.facebook.com
@@ -1872,8 +1825,6 @@
 0.0.0.0 bs-ba.zh-tw.ro-ro.fbjs.facebook.com
 0.0.0.0 bs-ba.zh-tw.upps.lite.facebook.com
 0.0.0.0 bs-ba.zh.lite.facebook.com
-0.0.0.0 bsr1000ive.oculusvr.com
-0.0.0.0 bstjoeun-016.autodiscover.oculusvr.com
 0.0.0.0 buatmaskerwajah.lite.facebook.com
 0.0.0.0 bunnylol.facebook.net
 0.0.0.0 business.business.cinyour.facebook.com
@@ -1882,7 +1833,6 @@
 0.0.0.0 business.instagram.com
 0.0.0.0 business.intern.facebook.com
 0.0.0.0 business.latest.facebook.com
-0.0.0.0 business.oculus.com
 0.0.0.0 businesspartners.fb.com
 0.0.0.0 buy.fb.com
 0.0.0.0 by.m.beta.facebook.com
@@ -1977,7 +1927,6 @@
 0.0.0.0 capiot.m.facebook.com
 0.0.0.0 careerconnections.fb.com
 0.0.0.0 careers.facebook.com
-0.0.0.0 careers.oculusvr.com
 0.0.0.0 carinaleagues.facebook.com
 0.0.0.0 carlsbergsweden.facebook.com
 0.0.0.0 cb-iq.af-za.ro-ro.fbjs.facebook.com
@@ -2047,22 +1996,17 @@
 0.0.0.0 cityguides.fb.com
 0.0.0.0 classof2020.fb.com
 0.0.0.0 cld74u.dns.facebook.com
-0.0.0.0 click.dev.oculusvr.com
-0.0.0.0 click.email.oculusvr.com
 0.0.0.0 click.facebook-research.facebookmail.com
 0.0.0.0 click.frl-research.facebookmail.com
 0.0.0.0 click.mc.facebookmail.com
 0.0.0.0 closingthedistance.cinyour.facebook.com
 0.0.0.0 cloud-portal-covid-na-ne1-1.alpha.facebook.com
 0.0.0.0 cloud-portal-covid-na-ne1-1.m.prod.facebook.com
-0.0.0.0 cloud.dev.oculusvr.com
-0.0.0.0 cloud.email.oculusvr.com
 0.0.0.0 cloud.facebook-research.facebookmail.com
 0.0.0.0 cloud.frl-research.facebookmail.com
 0.0.0.0 cloud.mc.facebookmail.com
 0.0.0.0 cloud.x2p.facebook.net
 0.0.0.0 clubmed.m.facebook.com
-0.0.0.0 cmn.oculusvr.com
 0.0.0.0 cms-www.fbjs.facebook.com
 0.0.0.0 cn.messenger.com
 0.0.0.0 cn.msn.messenger.com
@@ -2082,21 +2026,13 @@
 0.0.0.0 code.prod.facebook.com
 0.0.0.0 collamask.messenger.com
 0.0.0.0 colombia.fb.com
-0.0.0.0 com-ehm.oculusvr.com
-0.0.0.0 com-goodboy.oculusvr.com
-0.0.0.0 com-store-e1df9.oculusvr.com
-0.0.0.0 com-sub-97-36-4.oculusvr.com
-0.0.0.0 com-vmt.oculusvr.com
 0.0.0.0 com.mirror.facebook.net
 0.0.0.0 com.new.facebook.com
 0.0.0.0 com.wmlwww.intern.facebook.com
-0.0.0.0 comaspect-dp-jp.oculusvr.com
 0.0.0.0 comfytrade.m.facebook.com
-0.0.0.0 comjia.oculusvr.com
 0.0.0.0 commobile.fb.me
 0.0.0.0 communities.fb.com
 0.0.0.0 community.instagram.com
-0.0.0.0 comsazan.oculusvr.com
 0.0.0.0 conectadosbancogalicia.m.facebook.com
 0.0.0.0 conference.m.beta.facebook.com
 0.0.0.0 connect.beta.facebook.net
@@ -2171,7 +2107,6 @@
 0.0.0.0 creatingwebsite-maskolis.scgraph.facebook.com
 0.0.0.0 creative.cdninstagram.com
 0.0.0.0 creative.fb.com
-0.0.0.0 creator.oculus.com
 0.0.0.0 cs-cz.ad-dk.lite.facebook.com
 0.0.0.0 cs-cz.af-za.lite.facebook.com
 0.0.0.0 cs-cz.apps.ja-jp.fbjs.facebook.com
@@ -2282,10 +2217,7 @@
 0.0.0.0 cs-cz.zh-tw.upps.lite.facebook.com
 0.0.0.0 cs-cz.zh.lite.facebook.com
 0.0.0.0 cs-cz.zh.tw.lite.facebook.com
-0.0.0.0 cs.oculusvr.com
 0.0.0.0 csf.facebook.com
-0.0.0.0 csg.oculusvr.com
-0.0.0.0 csgautodiscover.oculusvr.com
 0.0.0.0 csi.fbsbx.com
 0.0.0.0 csi.messenger.com
 0.0.0.0 csn.fbsbx.com
@@ -2346,7 +2278,6 @@
 0.0.0.0 cy-gb.wwww.lite.facebook.com
 0.0.0.0 cy-gb.zh-tw.ha.lite.facebook.com
 0.0.0.0 cy-gb.zh-tw.ro-ro.fbjs.facebook.com
-0.0.0.0 cyhwyyx.oculusvr.com
 0.0.0.0 cz.m.beta.facebook.com
 0.0.0.0 cz.messenger.com
 0.0.0.0 d1.m.beta.facebook.com
@@ -2481,7 +2412,6 @@
 0.0.0.0 damaskevents.fb.me
 0.0.0.0 danone.m.facebook.com
 0.0.0.0 darkmoon.fb.me
-0.0.0.0 dashboard.oculus.com
 0.0.0.0 dashi.facebook.com
 0.0.0.0 dataforgood.facebook.com
 0.0.0.0 dataforgood.fb.com
@@ -2493,7 +2423,6 @@
 0.0.0.0 db.fb.me
 0.0.0.0 db.web2.fb.me
 0.0.0.0 dc7d.fb.me
-0.0.0.0 dcsutodiscover.oculusvr.com
 0.0.0.0 dd.fb.me
 0.0.0.0 de-de.aap.lite.facebook.com
 0.0.0.0 de-de.ad-dk.lite.facebook.com
@@ -2906,11 +2835,9 @@
 0.0.0.0 de.yearinreview.fb.com
 0.0.0.0 del-tec.latest.facebook.com
 0.0.0.0 deloitte.m.facebook.com
-0.0.0.0 demo.oculusvr.com
 0.0.0.0 demotrainingportal.fb.com
 0.0.0.0 depannage-ordinateur-windows-virus.facebookbrand-dev.fb.com
 0.0.0.0 depannage-ordinateur-windows-virus.staging.scgraph.facebook.com
-0.0.0.0 derkuss07062.autodiscover.oculusvr.com
 0.0.0.0 design.facebook.com
 0.0.0.0 desinfection.alpha.facebook.com
 0.0.0.0 deutschland.fb.com
@@ -2922,14 +2849,11 @@
 0.0.0.0 dev.fb.com
 0.0.0.0 dev.giphy.com
 0.0.0.0 dev.messenger.com
-0.0.0.0 dev.oculusvr.com
 0.0.0.0 dev.vvv.facebook.com
 0.0.0.0 developer.facebook.com
 0.0.0.0 developer.facebook.net
 0.0.0.0 developer.giphy.com
 0.0.0.0 developer.messenger.com
-0.0.0.0 developer.oculus.com
-0.0.0.0 developer.oculusvr.com
 0.0.0.0 developers.1.beta.facebook.com
 0.0.0.0 developers.ar-ar.it-it.prod.facebook.com
 0.0.0.0 developers.beta.facebook.com
@@ -2952,7 +2876,6 @@
 0.0.0.0 developers.lm.prod.facebook.com
 0.0.0.0 developers.ms-my.id-id.prod.facebook.com
 0.0.0.0 developers.new.facebook.com
-0.0.0.0 developers.oculus.com
 0.0.0.0 developers.prod.facebook.com
 0.0.0.0 developers.sv-se.fbjs.facebook.com
 0.0.0.0 devportal.giphy.com
@@ -3000,7 +2923,6 @@
 0.0.0.0 dm.m.facebook.com
 0.0.0.0 dn.fbsbx.com
 0.0.0.0 dnbwwn.facebook.com
-0.0.0.0 dns192.oculusvr.com
 0.0.0.0 dns.facebook.com
 0.0.0.0 docs.fb.com
 0.0.0.0 donate.fb.com
@@ -3010,7 +2932,6 @@
 0.0.0.0 dr02.nao1.tfbnw.net
 0.0.0.0 dramaskfan.facebookbrand-dev.fb.com
 0.0.0.0 dramaskfan.facebookbrand-preprod.fb.com
-0.0.0.0 dreamfly.oculusvr.com
 0.0.0.0 drop-l.fbjs.facebook.com
 0.0.0.0 ds1-dev.fb.com
 0.0.0.0 ds1-preprod.fb.com
@@ -3020,10 +2941,8 @@
 0.0.0.0 ds1-usuat.fb.com
 0.0.0.0 ds2-dev.fb.com
 0.0.0.0 ds2-preprod.fb.com
-0.0.0.0 dungeonhero.oculusvr.com
 0.0.0.0 duracell.facebook.com
 0.0.0.0 dvr.giphy.com
-0.0.0.0 dwcho3004545.oculusvr.com
 0.0.0.0 dxc.facebook.com
 0.0.0.0 dyi.www.instagram.com
 0.0.0.0 dyn.dns.facebook.com
@@ -3047,8 +2966,6 @@
 0.0.0.0 e16.whatsapp.net
 0.0.0.0 e.fbsbx.com
 0.0.0.0 e.ish.instagram.com
-0.0.0.0 e.oculusvr.com
-0.0.0.0 eager.oculusvr.com
 0.0.0.0 ebuddy.com.web.messenger.com
 0.0.0.0 ebuddy.msn.messenger.com
 0.0.0.0 ecovidrio.internmcr.facebook.com
@@ -3920,8 +3837,6 @@
 0.0.0.0 email-quarantine.cinyour.facebook.com
 0.0.0.0 email-quarantine.messenger.com
 0.0.0.0 email-quarantine.scgraph.facebook.com
-0.0.0.0 email.oculusvr.com
-0.0.0.0 emailtrack.oculusvr.com
 0.0.0.0 embed.fbsbx.com
 0.0.0.0 emma1111l.messenger.com
 0.0.0.0 employee.instagram.com
@@ -4245,7 +4160,6 @@
 0.0.0.0 entdiscovide.facebookbrand-2018-preprod.fb.com
 0.0.0.0 entdiscovide.facebookbrand-2018.fb.com
 0.0.0.0 entel.m.facebook.com
-0.0.0.0 entertainment-autodiscover.oculusvr.com
 0.0.0.0 eo-eo.9pruw2rj.dns.facebook.com
 0.0.0.0 eo-eo.de-de.he-il.fbjs.facebook.com
 0.0.0.0 eo-eo.dns.facebook.com
@@ -4266,7 +4180,6 @@
 0.0.0.0 epixel.fbjs.facebook.com
 0.0.0.0 epsilontel.facebook.com
 0.0.0.0 eqcoivd.fb.me
-0.0.0.0 eris.oculusvr.com
 0.0.0.0 error.facebook.com
 0.0.0.0 error.id-id.m.fb.me
 0.0.0.0 error.intern.facebook.com
@@ -5014,8 +4927,6 @@
 0.0.0.0 et-ee.zh-tw.ha.lite.facebook.com
 0.0.0.0 et-ee.zh-tw.lite.facebook.com
 0.0.0.0 et-ee.zh-tw.ro-ro.fbjs.facebook.com
-0.0.0.0 eu1-buzzfeedbf-storage-py.sso.stage.autodiscover.oculusvr.com
-0.0.0.0 eu-central-1-live.oculusvr.com
 0.0.0.0 eu-dev.fb.com
 0.0.0.0 eu-es.ar-ar.developers.prod.facebook.com
 0.0.0.0 eu-es.es-es.es-la.prod.facebook.com
@@ -5045,9 +4956,7 @@
 0.0.0.0 events.giphy.com
 0.0.0.0 eventsfb.m.beta.facebook.com
 0.0.0.0 everis.facebook.com
-0.0.0.0 evg.oculusvr.com
 0.0.0.0 evry.facebook.com
-0.0.0.0 ew53680r99pz76.oculusvr.com
 0.0.0.0 exec.m.beta.facebook.com
 0.0.0.0 exprealty.facebook.com
 0.0.0.0 expresswifi.fb.com
@@ -5417,7 +5326,6 @@
 0.0.0.0 external.fzrh1-1.fna.fbcdn.net
 0.0.0.0 external.fzrh3-1.fna.fbcdn.net
 0.0.0.0 external.xx.fbcdn.net
-0.0.0.0 ezautoutodiscover.oculusvr.com
 0.0.0.0 f0a3cbf7580-dcbcbsdz1605727367-sonar.xz.fbcdn.net
 0.0.0.0 f0a441e2380-vxptyuok1599679398-sonar.xz.fbcdn.net
 0.0.0.0 f0a4891cd80-svcfrkie1581631793-sonar.xz.fbcdn.net
@@ -7176,9 +7084,6 @@
 0.0.0.0 formation.fb.com
 0.0.0.0 formationadistance.cinyourrc.facebook.com
 0.0.0.0 formationadistance.facebookbrand-preprod.fb.com
-0.0.0.0 forums-stage.oculusvr.com
-0.0.0.0 forums.oculus.com
-0.0.0.0 forums.oculusvr.com
 0.0.0.0 forwardtogether.fb.com
 0.0.0.0 fotp3-3.fna.whatsapp.net
 0.0.0.0 four.intern.facebook.com
@@ -7712,7 +7617,6 @@
 0.0.0.0 ftl.whatsapp.com
 0.0.0.0 ftp.instagram.fmnl5-1.fna.fbcdn.net
 0.0.0.0 ftp.messenger.com
-0.0.0.0 fujibus-cojp.live.oculusvr.com
 0.0.0.0 futurestate.facebook.com
 0.0.0.0 fwsm1.m.beta.facebook.com
 0.0.0.0 fx.messenger.com
@@ -7795,7 +7699,6 @@
 0.0.0.0 ghcpim.fbjs.facebook.com
 0.0.0.0 ghmoupbqw8e5zla04skyctrj317f6xdn9v2i.fb.me
 0.0.0.0 ghostfacemask.messenger.com
-0.0.0.0 gi315.oculusvr.com
 0.0.0.0 gifdanceparty.giphy.com
 0.0.0.0 giftofgiving.fb.com
 0.0.0.0 gingerhotels.m.facebook.com
@@ -7847,10 +7750,7 @@
 0.0.0.0 go.fb.com
 0.0.0.0 go.fb.me
 0.0.0.0 gob.m.facebook.com
-0.0.0.0 gobigstr.autodiscover.oculusvr.com
-0.0.0.0 godobusan-009-live.oculusvr.com
 0.0.0.0 going-global.fb.com
-0.0.0.0 gojangiive.oculusvr.com
 0.0.0.0 golden-mask.fb.me
 0.0.0.0 google.fb.messenger.com
 0.0.0.0 google.m.facebook.com
@@ -7869,7 +7769,6 @@
 0.0.0.0 graaph.fb.me
 0.0.0.0 grab.facebook.com
 0.0.0.0 grab.m.facebook.com
-0.0.0.0 grace60232.oculusvr.com
 0.0.0.0 gradmoth.fbsbx.com
 0.0.0.0 grah.fb.me
 0.0.0.0 grahp.fb.me
@@ -7894,7 +7793,6 @@
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.messenger.com
-0.0.0.0 graph.oculus.com
 0.0.0.0 graph.prod.facebook.com
 0.0.0.0 graph.secure.facebook.com
 0.0.0.0 graph.whatsapp.net
@@ -7983,7 +7881,6 @@
 0.0.0.0 ha-ng.zh-tw.lite.facebook.com
 0.0.0.0 ha.lite.facebook.com
 0.0.0.0 hacktober.fb.com
-0.0.0.0 hanseol.oculusvr.com
 0.0.0.0 happs.fbsbx.com
 0.0.0.0 hardquestions.fb.com
 0.0.0.0 hardquestionstour.fb.com
@@ -8073,7 +7970,6 @@
 0.0.0.0 headers-shv-00-ratn0.facebook.com
 0.0.0.0 headers-shv-00-rfrc0.facebook.com
 0.0.0.0 headers.t.facebook.com
-0.0.0.0 healthlive.oculusvr.com
 0.0.0.0 heart-surgery-ntm-infection-lawyer.cinyour.facebook.com
 0.0.0.0 heiko-by-heiko.facebook.com
 0.0.0.0 helgab.messenger.com
@@ -8084,7 +7980,6 @@
 0.0.0.0 help.instagram.com
 0.0.0.0 help.latest.facebook.com
 0.0.0.0 help.latest.instagram.com
-0.0.0.0 help.oculus.com
 0.0.0.0 helpdesk.tfbnw.net
 0.0.0.0 helpstopthevirus.alpha.facebook.com
 0.0.0.0 helpstopthevirus.fb.me
@@ -8367,7 +8262,6 @@
 0.0.0.0 hi-in.zh-tw.zh-tw.upps.lite.facebook.com
 0.0.0.0 hi-in.zh.lite.facebook.com
 0.0.0.0 hi-in.zh.tw.lite.facebook.com
-0.0.0.0 hialice.oculusvr.com
 0.0.0.0 hide.lite.facebook.com
 0.0.0.0 hiusj.facebook.com
 0.0.0.0 hk.messenger.com
@@ -8629,7 +8523,6 @@
 0.0.0.0 hu-hu.zh.tw.lite.facebook.com
 0.0.0.0 hu.messenger.com
 0.0.0.0 huawei.facebook.com
-0.0.0.0 hukaura1-autodiscover.oculusvr.com
 0.0.0.0 hungthinhland.facebook.com
 0.0.0.0 hunu.m.facebook.com
 0.0.0.0 hy-am.az-az.ro-ro.fbjs.facebook.com
@@ -8663,7 +8556,6 @@
 0.0.0.0 icemask.0.fb.me
 0.0.0.0 icemask.fb.me
 0.0.0.0 icemask.web.messenger.com
-0.0.0.0 icw00731.oculusvr.com
 0.0.0.0 id-id.aap.lite.facebook.com
 0.0.0.0 id-id.ad-dk.lite.facebook.com
 0.0.0.0 id-id.af-za.lite.facebook.com
@@ -8805,7 +8697,6 @@
 0.0.0.0 id-id.zh.lite.facebook.com
 0.0.0.0 id-id.zh.tw.lite.facebook.com
 0.0.0.0 id.messenger.com
-0.0.0.0 id.oculus.com
 0.0.0.0 ide.fbsbx.com
 0.0.0.0 igcdn-origincache-all.fbcdn.net
 0.0.0.0 iglite-z.facebook.com
@@ -8815,8 +8706,6 @@
 0.0.0.0 iictt.m.facebook.com
 0.0.0.0 iifl.facebook.com
 0.0.0.0 il.messenger.com
-0.0.0.0 image.dev.oculusvr.com
-0.0.0.0 image.email.oculusvr.com
 0.0.0.0 image.mc.facebookmail.com
 0.0.0.0 images.ak.instagram.com
 0.0.0.0 imaging-qa.giphy.com
@@ -8842,7 +8731,6 @@
 0.0.0.0 indonesia.fb.com
 0.0.0.0 indosat.fb.me
 0.0.0.0 indosatooredoo.messenger.com
-0.0.0.0 induk1-036.oculusvr.com
 0.0.0.0 infeccionesporhongoslibro.beta.facebook.com
 0.0.0.0 infeccionesporhongoslibro.cinyour.facebook.com
 0.0.0.0 infeccionvaginal.facebookbrand-dev.fb.com
@@ -10575,7 +10463,6 @@
 0.0.0.0 internmcr.facebook.com
 0.0.0.0 intranet.messenger.com
 0.0.0.0 investor.fb.com
-0.0.0.0 inwoo09.oculusvr.com
 0.0.0.0 inyour.facebook.com
 0.0.0.0 inyour.messenger.com
 0.0.0.0 iorg-fba-edge-shv-01-gru1.facebook.com
@@ -10583,7 +10470,6 @@
 0.0.0.0 iorg-fba-edge-shv-01-hkt1.facebook.com
 0.0.0.0 iorg-fba-edge-shv-01-pmo1.facebook.com
 0.0.0.0 iorg-fba.c10r.facebook.com
-0.0.0.0 ip222-autodiscover.oculusvr.com
 0.0.0.0 ip.messenger.com
 0.0.0.0 iphone.facebook.com
 0.0.0.0 ippon.m.facebook.com
@@ -11386,7 +11272,6 @@
 0.0.0.0 jp.messenger.com
 0.0.0.0 jp.yearinreview.fb.com
 0.0.0.0 js.fb.com
-0.0.0.0 jsrong-live.oculusvr.com
 0.0.0.0 jv-id.ad-dk.lite.facebook.com
 0.0.0.0 jv-id.ar-ar.date.lite.facebook.com
 0.0.0.0 jv-id.beta.facebook.com
@@ -11482,7 +11367,6 @@
 0.0.0.0 kh.events.edge-mqqt.snr.whatsapp.net
 0.0.0.0 kj0ao1c79914qh0i4xsy4d.ro-ro.fbjs.facebook.com
 0.0.0.0 kk-kz.facebook.com
-0.0.0.0 klas.oculusvr.com
 0.0.0.0 km-kh.ad-dk.lite.facebook.com
 0.0.0.0 km-kh.af-za.ro-ro.fbjs.facebook.com
 0.0.0.0 km-kh.apps.prod.facebook.com
@@ -11502,7 +11386,6 @@
 0.0.0.0 km-kh.th-th.de-de.prod.facebook.com
 0.0.0.0 km-kh.zh-cn.zh-cn.fbjs.facebook.com
 0.0.0.0 km-kh.zh.lite.facebook.com
-0.0.0.0 km-land-net.live.oculusvr.com
 0.0.0.0 kmdistance.beta.facebook.com
 0.0.0.0 kmdistance.messenger.com
 0.0.0.0 kn-in.ar-ar.developers.prod.facebook.com
@@ -11761,7 +11644,6 @@
 0.0.0.0 ko-kr.zh.lite.facebook.com
 0.0.0.0 ko-kr.zh.tw.lite.facebook.com
 0.0.0.0 ko.newsroom.fb.com
-0.0.0.0 kofax.autodiscover.oculusvr.com
 0.0.0.0 kong-2-qa.giphy.com
 0.0.0.0 kong-2.giphy.com
 0.0.0.0 kong-imaging-prod.giphy.com
@@ -11803,7 +11685,6 @@
 0.0.0.0 kumaskagitmakas.m.fb.me
 0.0.0.0 kunstimuuseum.internmc.facebook.com
 0.0.0.0 kunstimuuseum.messenger.com
-0.0.0.0 kwons134521.live.oculusvr.com
 0.0.0.0 ky-kg.facebook.com
 0.0.0.0 kyivstar.m.facebook.com
 0.0.0.0 l1-dev.fb.com
@@ -11882,7 +11763,6 @@
 0.0.0.0 lernen.fb.com
 0.0.0.0 letools.facebook.com
 0.0.0.0 liammaskell.messenger.com
-0.0.0.0 lifeedu-016.oculusvr.com
 0.0.0.0 limited-prod.giphy.map.fastly.net
 0.0.0.0 limited-sni-prod.giphy.map.fastly.net
 0.0.0.0 line-cdn.fb.me
@@ -11894,25 +11774,14 @@
 0.0.0.0 lite.lite.beta.facebook.com
 0.0.0.0 lite.on.lite.facebook.com
 0.0.0.0 lithium.facebook.com
-0.0.0.0 live-6e1.oculusvr.com
 0.0.0.0 live-api-a.facebook.com
 0.0.0.0 live-api-s.facebook.com
 0.0.0.0 live-api.facebook.com
-0.0.0.0 live-biyouch-com.oculusvr.com
-0.0.0.0 live-cdn-0.oculusvr.com
 0.0.0.0 live-dev.instagram.com
-0.0.0.0 live-grim.oculusvr.com
-0.0.0.0 live-jjr09251.oculusvr.com
-0.0.0.0 live-p3q.oculusvr.com
 0.0.0.0 live-upload-staging.facebook.com
 0.0.0.0 live-upload.instagram.com
 0.0.0.0 live.fb.com
 0.0.0.0 live.messenger.com
-0.0.0.0 live.oculus.com
-0.0.0.0 live.oculusvr.com
-0.0.0.0 livechileanplants.oculusvr.com
-0.0.0.0 livemxx.oculusvr.com
-0.0.0.0 livepetanque-asia.oculusvr.com
 0.0.0.0 liverail.c10r.facebook.com
 0.0.0.0 liverpool.lite.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-any2.facebook.com
@@ -11934,7 +11803,6 @@
 0.0.0.0 lm.facebook.com
 0.0.0.0 lm.messenger.com
 0.0.0.0 lm.prod.facebook.com
-0.0.0.0 lms.live.oculusvr.com
 0.0.0.0 lntecc.m.facebook.com
 0.0.0.0 lntinfotech.facebook.com
 0.0.0.0 lntinfotech.m.facebook.com
@@ -12039,7 +11907,6 @@
 0.0.0.0 lt.fb.com
 0.0.0.0 lt.messenger.com
 0.0.0.0 ltam.newsroom.fb.com
-0.0.0.0 lujianive.oculusvr.com
 0.0.0.0 lv-lv.af-za.ro-ro.fbjs.facebook.com
 0.0.0.0 lv-lv.ar-ar.developers.prod.facebook.com
 0.0.0.0 lv-lv.ar-ar.dns.facebook.com
@@ -12090,7 +11957,6 @@
 0.0.0.0 lv-lv.zh-hk.zh-tw.fbjs.facebook.com
 0.0.0.0 lv-lv.zh-tw.ro-ro.fbjs.facebook.com
 0.0.0.0 lvi.fbjs.facebook.com
-0.0.0.0 lwinkl5.live.oculusvr.com
 0.0.0.0 lyc-brassens-courcouronnes.beta.messenger.com
 0.0.0.0 m2.facebook.com
 0.0.0.0 m11.fbjs.facebook.com
@@ -12151,7 +12017,6 @@
 0.0.0.0 m.o.facebook.com
 0.0.0.0 m.pl-pl.tr-tr.prod.facebook.com
 0.0.0.0 m.prod.facebook.com
-0.0.0.0 m.prod.oculus.com
 0.0.0.0 m.rw-rw.es-la.fbjs.facebook.com
 0.0.0.0 m.s.ar.ar.lite.facebook.com
 0.0.0.0 m.sl-si.lite.facebook.com
@@ -12175,7 +12040,6 @@
 0.0.0.0 mail.hack.tfbnw.net
 0.0.0.0 mail.instagram.com
 0.0.0.0 mail.instagram.fmnl5-1.fna.fbcdn.net
-0.0.0.0 mail.oculus.com
 0.0.0.0 mail.thefacebook.com
 0.0.0.0 mailchimp-oauth.facebook.com
 0.0.0.0 mailwww.fbjs.facebook.com
@@ -12212,7 +12076,6 @@
 0.0.0.0 mask12.fbsbx.com
 0.0.0.0 mask.fb.me
 0.0.0.0 mask.internmc.facebook.com
-0.0.0.0 mask.oculusvr.com
 0.0.0.0 mask.ro-ro.fbjs.facebook.com
 0.0.0.0 mask.scgraph.facebook.com
 0.0.0.0 maska2.facebookbrand-preprod.fb.com
@@ -12290,7 +12153,6 @@
 0.0.0.0 mbasic.messenger.com
 0.0.0.0 mbasic.prod.facebook.com
 0.0.0.0 mc.facebookmail.com
-0.0.0.0 mcommuni.autodiscover.oculusvr.com
 0.0.0.0 mcraffets.messenger.com
 0.0.0.0 me.lite.facebook.com
 0.0.0.0 media0.giphy.com
@@ -12873,7 +12735,6 @@
 0.0.0.0 messenger.fb.com
 0.0.0.0 messengernews.fb.com
 0.0.0.0 messengerplatform.fb.com
-0.0.0.0 mesv-transit05.oculusvr.com
 0.0.0.0 metformin.messenger.com
 0.0.0.0 meurope.fbjs.facebook.com
 0.0.0.0 mewe.facebookbrand-2018-preprod.fb.com
@@ -12899,12 +12760,10 @@
 0.0.0.0 mike.m.beta.facebook.com
 0.0.0.0 mikecraffets.messenger.com
 0.0.0.0 milestone.facebook.com
-0.0.0.0 mileycyrus.oculusvr.com
 0.0.0.0 milkmask.staging.scgraph.facebook.com
 0.0.0.0 minecraft-virusz.facebookbrand-preprod.fb.com
 0.0.0.0 minecraft-virusz.internmcr.facebook.com
 0.0.0.0 minecraft-virusz.scgraph.facebook.com
-0.0.0.0 minsstory2live.oculusvr.com
 0.0.0.0 miracleglow-mask.cinyour.facebook.com
 0.0.0.0 miracleglow-mask.staging.scgraph.facebook.com
 0.0.0.0 miroglio.m.facebook.com
@@ -13206,15 +13065,12 @@
 0.0.0.0 mt-mt.nb-no.id-id.prod.facebook.com
 0.0.0.0 mt-mt.nb-no.ro-ro.fbjs.facebook.com
 0.0.0.0 mt-mt.th-th.de-de.prod.facebook.com
-0.0.0.0 mta2.email.oculusvr.com
 0.0.0.0 mta-sts.facebookmail.com
 0.0.0.0 mta.a01.edge-mqqt.snr.whatsapp.net
-0.0.0.0 mta.email.oculusvr.com
 0.0.0.0 mta.webhelp.v.snr.whatsapp.net
 0.0.0.0 mtouch.facebook.com
 0.0.0.0 mtouch.intern.facebook.com
 0.0.0.0 muhunupothamuluthange.fb.me
-0.0.0.0 multiverse.oculusvr.com
 0.0.0.0 mundipharma.facebook.com
 0.0.0.0 music.m.beta.facebook.com
 0.0.0.0 mx.instagram.fmnl5-1.fna.fbcdn.net
@@ -13233,7 +13089,6 @@
 0.0.0.0 my.facebook.com
 0.0.0.0 my.messenger.com
 0.0.0.0 my.msn.messenger.com
-0.0.0.0 myamya.autodiscover.oculusvr.com
 0.0.0.0 mybauli.facebook.com
 0.0.0.0 mysmrt.facebook.com
 0.0.0.0 myspace.messenger.com
@@ -13242,7 +13097,6 @@
 0.0.0.0 mzubrgklsczqoyx6mstlc.snr.whatsapp.net
 0.0.0.0 n.facebook.com
 0.0.0.0 n.fb.com
-0.0.0.0 nalee14.oculusvr.com
 0.0.0.0 napps.fbsbx.com
 0.0.0.0 national.facebook.com
 0.0.0.0 natura.facebook.com
@@ -13698,7 +13552,6 @@
 0.0.0.0 oculus.xx.fbcdn.net
 0.0.0.0 oculusforbusiness.fb.com
 0.0.0.0 oculusvr.com
-0.0.0.0 oculusvrive.oculusvr.com
 0.0.0.0 oculusweb.fb.com
 0.0.0.0 oedge-c2p-shv-01-sjc3.lite.facebook.com
 0.0.0.0 oildex.facebook.com
@@ -13789,11 +13642,9 @@
 0.0.0.0 our.hr.facebook.com
 0.0.0.0 our.intern.facebook.com
 0.0.0.0 our.internmc.facebook.com
-0.0.0.0 ousaemichan1.oculusvr.com
 0.0.0.0 outlook-dev.giphy.com
 0.0.0.0 outlook-v3.giphy.com
 0.0.0.0 outlook.giphy.com
-0.0.0.0 ovrtesting.oculusvr.com
 0.0.0.0 owa.m.beta.facebook.com
 0.0.0.0 ozonteam.m.facebook.com
 0.0.0.0 p5l6t64b4p048l0czf.ar.ar.lite.facebook.com
@@ -13834,7 +13685,6 @@
 0.0.0.0 partners.cstools.facebook.com
 0.0.0.0 partners.facebook.com
 0.0.0.0 partners.intern.facebook.com
-0.0.0.0 partners.oculusvr.com
 0.0.0.0 partners.prod.facebook.com
 0.0.0.0 pay-pl.fbjs.facebook.com
 0.0.0.0 pay.business.cinyour.facebook.com
@@ -13842,7 +13692,6 @@
 0.0.0.0 pay.fb.com
 0.0.0.0 paygit.fbjs.facebook.com
 0.0.0.0 payments-localisation.whatsapp.com
-0.0.0.0 pbr.oculusvr.com
 0.0.0.0 pc39.m.beta.facebook.com
 0.0.0.0 pd29lbk0qgyo8st6e4chz7n3a5ixm1ufrvjw.fb.me
 0.0.0.0 pdocs.fb.com
@@ -13852,7 +13701,6 @@
 0.0.0.0 peoplepractices.fb.com
 0.0.0.0 perfshield.facebook.com
 0.0.0.0 pernambucanas.m.facebook.com
-0.0.0.0 peter9961.oculusvr.com
 0.0.0.0 pf.messenger.com
 0.0.0.0 pgf7dbv5x8cwj1lomeyh0q3srt264zukna9i.fbsbx.com
 0.0.0.0 ph.fbjs.facebook.com
@@ -14064,11 +13912,9 @@
 0.0.0.0 platform.facebook.com
 # 0.0.0.0 platform.foursquare.com Not owned by FB
 0.0.0.0 platform.instagram.com
-0.0.0.0 platform.oculusvr.com
 0.0.0.0 platformlookaside.fbsbx.com
 0.0.0.0 platfrom-lookaside.fbsbx.com
 0.0.0.0 playpen7.fbjs.facebook.com
-0.0.0.0 plazma.oculusvr.com
 0.0.0.0 pletove-masky.internmc.facebook.com
 0.0.0.0 plt.fb.com
 0.0.0.0 pmp.fb.com
@@ -14084,7 +13930,6 @@
 0.0.0.0 pop.instagram.fmnl5-1.fna.fbcdn.net
 0.0.0.0 pop.messenger.com
 0.0.0.0 pop.pop.messenger.com
-0.0.0.0 popklmllive.oculusvr.com
 0.0.0.0 portal-lax1.fbjs.facebook.com
 0.0.0.0 portal-qa.fbjs.facebook.com
 0.0.0.0 portal.facebook.com
@@ -14117,7 +13962,6 @@
 0.0.0.0 prod.messenger.com
 0.0.0.0 prod.scgraph.facebook.com
 0.0.0.0 prodigy.messenger.com
-0.0.0.0 product-guides.oculus.com
 0.0.0.0 profile-a-atl.xx.fbcdn.net
 0.0.0.0 profile-a-dfw.xx.fbcdn.net
 0.0.0.0 profile-a-iad.xx.fbcdn.net
@@ -14142,8 +13986,6 @@
 0.0.0.0 profimasking.internmc.facebook.com
 0.0.0.0 promis.facebook.com
 0.0.0.0 promo-de.fbjs.facebook.com
-0.0.0.0 proposal.oculusvr.com
-0.0.0.0 proposalsautodiscover.oculusvr.com
 0.0.0.0 provacinema.facebookbrand-dev.fb.com
 0.0.0.0 provacinema.fb.me
 0.0.0.0 proxymail.facebook.com
@@ -14162,7 +14004,6 @@
 0.0.0.0 ps-af.zh.lite.facebook.com
 0.0.0.0 psdfwork.facebook.com
 0.0.0.0 psw02.vie1.tfbnw.net
-0.0.0.0 psycho.oculusvr.com
 0.0.0.0 pt-br69-171-244-89.fbjs.facebook.com
 0.0.0.0 pt-br.aap.lite.facebook.com
 0.0.0.0 pt-br.ad-dk.lite.facebook.com
@@ -14642,7 +14483,6 @@
 0.0.0.0 pt.messenger.com
 0.0.0.0 pt.msn.messenger.com
 0.0.0.0 pttworkplace.facebook.com
-0.0.0.0 ptuebiz-010utodiscover.oculusvr.com
 0.0.0.0 pub-respiratory-advil-us-stg-sj.facebookbrand-dev.fb.com
 0.0.0.0 pubicstaticvoidmain.fb.me
 0.0.0.0 publicapi-qa.giphy.com
@@ -14665,7 +14505,6 @@
 0.0.0.0 qmf11.fava.fb.com
 0.0.0.0 qmn14.fava.fb.com
 0.0.0.0 qmn.fava.fb.com
-0.0.0.0 qsf.autodiscover.oculusvr.com
 0.0.0.0 quarantaine.facebookbrand-release.fb.com
 0.0.0.0 quarantine3.fbsbx.com
 0.0.0.0 quarantine3.scgraph.facebook.com
@@ -14701,7 +14540,6 @@
 0.0.0.0 rbt.fb.me
 0.0.0.0 rcn.m.facebook.com
 0.0.0.0 rdg.facebook.com
-0.0.0.0 realgamjao.oculusvr.com
 0.0.0.0 realtor.facebook.com
 0.0.0.0 recvoid.new.facebook.com
 0.0.0.0 redirector-pay.fbjs.facebook.com
@@ -14883,7 +14721,6 @@
 0.0.0.0 ro-ro.zh.tw.lite.facebook.com
 0.0.0.0 ro.fbjs.facebook.com
 0.0.0.0 ro.messenger.com
-0.0.0.0 roslin.autodiscover.oculusvr.com
 0.0.0.0 rozwoj-dev.fb.com
 0.0.0.0 rozwoj-preprod.fb.com
 0.0.0.0 rozwoj-uat.fb.com
@@ -15054,7 +14891,6 @@
 0.0.0.0 rw-rw.sq-al.is-is.fbjs.facebook.com
 0.0.0.0 rw-rw.www.www.lite.facebook.com
 0.0.0.0 s9ea2g2ww151gl-wyxmal88.zh-tw.prod.facebook.com
-0.0.0.0 s4363a.live.oculusvr.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 s-static.ak.facebook.com.edgekey.net
 0.0.0.0 s-static.beta.facebook.com
@@ -15064,13 +14900,11 @@
 0.0.0.0 s-static.intern.facebook.com
 0.0.0.0 s.fb.com
 0.0.0.0 s.update.fbsbx.com
-0.0.0.0 sa-archive.oculusvr.com
 0.0.0.0 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 0.0.0.0 safety.instagram.com
 0.0.0.0 santiagobalancovocos.cinyour.facebook.com
 0.0.0.0 santiagoblancovocos.cinyour.facebook.com
 0.0.0.0 santiagoblancovoscos.cinyour.facebook.com
-0.0.0.0 sastra.autodiscover.oculusvr.com
 0.0.0.0 savealot.facebook.com
 0.0.0.0 savethechildren.facebook.com
 0.0.0.0 savethechildren.m.facebook.com
@@ -16347,13 +16181,10 @@
 0.0.0.0 secure.internmcr.facebook.com
 0.0.0.0 secure.latest.facebook.com
 0.0.0.0 secure.latest.instagram.com
-0.0.0.0 secure.oculus.com
 0.0.0.0 secure.prod.facebook.com
 0.0.0.0 secure.trunkstable.facebook.com
-0.0.0.0 securecdn.oculus.com
 0.0.0.0 securitas.facebook.com
 0.0.0.0 seformer.fb.com
-0.0.0.0 segyeuhak1live.oculusvr.com
 0.0.0.0 senitopeng.fbsbx.com
 0.0.0.0 sequarantine.internmc.facebook.com
 0.0.0.0 sequarantine.messenger.com
@@ -16367,12 +16198,9 @@
 0.0.0.0 sha256.xy.fbcdn.net
 0.0.0.0 sha256.xz.fbcdn.net
 0.0.0.0 shadow.facebook.com
-0.0.0.0 share.oculusvr.com
-0.0.0.0 she-kautodiscover.oculusvr.com
 0.0.0.0 sheleadstechin.fb.com
 0.0.0.0 shemeansbusiness.fb.com
 0.0.0.0 shigekix5.vi-vn.lite.facebook.com
-0.0.0.0 shop.oculus.com
 0.0.0.0 shopping.m.beta.facebook.com
 0.0.0.0 shortcut-virus-remover.prod.facebook.com
 0.0.0.0 shortcut-virus-remover.scgraph.facebook.com
@@ -16403,10 +16231,8 @@
 0.0.0.0 silvermask.internmcr.facebook.com
 0.0.0.0 silvermask.latest.facebook.com
 0.0.0.0 sinemaskop.new.facebook.com
-0.0.0.0 sips.oculusvr.com
 0.0.0.0 sitel.facebook.com
 0.0.0.0 sitel.m.facebook.com
-0.0.0.0 sits-pod61.oculusvr.com
 0.0.0.0 sixxvirus.fbsbx.com
 0.0.0.0 sk-sk.aap.lite.facebook.com
 0.0.0.0 sk-sk.af-za.ro-ro.fbjs.facebook.com
@@ -16977,7 +16803,6 @@
 0.0.0.0 sphotos.xx.fbcdn.net
 0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sprint.messenger.com
-0.0.0.0 sps-mg-xsrvjp.live.oculusvr.com
 0.0.0.0 sq-al.af-za.ro-ro.fbjs.facebook.com
 0.0.0.0 sq-al.ar-ar.vi-vn.lite.facebook.com
 0.0.0.0 sq-al.ar.ar.lite.facebook.com
@@ -17152,11 +16977,8 @@
 0.0.0.0 ssl.facebook.com
 0.0.0.0 ssl.fbsbx.com
 0.0.0.0 ssl.new.facebook.com
-0.0.0.0 sso.stage.autodiscover.oculusvr.com
 0.0.0.0 ssvc-gb.facebook.com
-0.0.0.0 stage.autodiscover.oculusvr.com
 0.0.0.0 stage.messenger.com
-0.0.0.0 staging40.oculusvr.com
 0.0.0.0 staging-dvr.giphy.com
 0.0.0.0 staging-imaging.giphy.com
 0.0.0.0 staging.facebookvirtualassistant.com
@@ -17193,8 +17015,6 @@
 # 0.0.0.0 static.licdn.com Not owned by FB
 0.0.0.0 static.messenger.com
 0.0.0.0 static.new.facebook.com
-0.0.0.0 static.oculus.com
-0.0.0.0 static.oculusvr.com
 0.0.0.0 static.whatsapp.net
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 staticxx.beta.facebook.com
@@ -17214,7 +17034,6 @@
 0.0.0.0 stopcovid.messenger.com
 0.0.0.0 stories.fb.com
 0.0.0.0 stormberg.m.facebook.com
-0.0.0.0 storystudio.oculus.com
 0.0.0.0 strayeredu.facebook.com
 0.0.0.0 streaming-graph.facebook.com
 0.0.0.0 stromectol.beta.messenger.com
@@ -17228,15 +17047,12 @@
 0.0.0.0 su1-usdev.fb.com
 0.0.0.0 su1-uspreprod.fb.com
 0.0.0.0 su1-usuat.fb.com
-0.0.0.0 sub-97-159-192-autodiscover.oculusvr.com
 0.0.0.0 subversion.m.beta.facebook.com
 0.0.0.0 succeedtogether.facebook.com
 0.0.0.0 sun.beta.facebook.com
 0.0.0.0 sundance.fb.com
 0.0.0.0 sunyedu.facebook.com
 0.0.0.0 support.giphy.com
-0.0.0.0 support.oculus.com
-0.0.0.0 support.oculusvr.com
 0.0.0.0 support.whatsapp.com
 0.0.0.0 supportm.fbjs.facebook.com
 0.0.0.0 surround360.fb.com
@@ -17485,8 +17301,6 @@
 0.0.0.0 ta-in.th-th.de-de.prod.facebook.com
 0.0.0.0 ta-in.tr-tr.ja-jp.ro-ro.fbjs.facebook.com
 0.0.0.0 ta-in.zh.tw.lite.facebook.com
-0.0.0.0 taban.oculusvr.com
-0.0.0.0 taex.oculusvr.com
 0.0.0.0 tafensw.facebook.com
 0.0.0.0 tdocs.fb.com
 0.0.0.0 te-in.af-za.ro-ro.fbjs.facebook.com
@@ -17518,9 +17332,7 @@
 0.0.0.0 telenor.m.facebook.com
 0.0.0.0 telkomsel.0.fb.me
 0.0.0.0 teradici-trusted-license-test.supernova.fb.com
-0.0.0.0 test-ssoutodiscover.oculusvr.com
 0.0.0.0 test-web.whatsapp.com
-0.0.0.0 test-xinfo347-xserver-com.oculusvr.com
 0.0.0.0 test.beta.facebook.com
 0.0.0.0 test.c2p.facebook.net
 0.0.0.0 test.facebookvirtualassistant.com
@@ -17667,9 +17479,6 @@
 0.0.0.0 thomaskowalski.facebookbrand-dev.fb.com
 0.0.0.0 threatexchange.fb.com
 0.0.0.0 thrive.fb.com
-0.0.0.0 tiaabankvoices-com.ousaemichan1.oculusvr.com
-0.0.0.0 tickets.oculus.com
-0.0.0.0 tickets.oculusvr.com
 0.0.0.0 timbrasil.m.facebook.com
 0.0.0.0 time1.facebook.com
 0.0.0.0 time2.facebook.com
@@ -18049,8 +17858,6 @@
 0.0.0.0 vacinaealgoserio.facebook.messenger.com
 0.0.0.0 vacinaealgoserio.facebookbrand-dev.fb.com
 0.0.0.0 valet.facebook.com
-0.0.0.0 vangquish.oculusvr.com
-0.0.0.0 vbs-195120a.roslin.autodiscover.oculusvr.com
 0.0.0.0 venteprivee.m.facebook.com
 0.0.0.0 vi8qtl.dns.facebook.com
 0.0.0.0 vi-vn.ad-dk.lite.facebook.com
@@ -18656,8 +18463,6 @@
 0.0.0.0 video.messenger.com
 0.0.0.0 video.xx.fbcdn.net
 0.0.0.0 videoapp.fb.com
-0.0.0.0 view.dev.oculusvr.com
-0.0.0.0 view.email.oculusvr.com
 0.0.0.0 view.facebook-research.facebookmail.com
 0.0.0.0 view.frl-research.facebookmail.com
 0.0.0.0 view.mc.facebookmail.com
@@ -18710,7 +18515,6 @@
 0.0.0.0 vpn10.error.our.intern.facebook.com
 0.0.0.0 vpn.tfbnw.net
 0.0.0.0 vraph.fb.me
-0.0.0.0 vrforgood.oculus.com
 0.0.0.0 vrforinclusion.fb.com
 0.0.0.0 vsp.fb.com
 0.0.0.0 vsptest.fb.com
@@ -18794,11 +18598,6 @@
 0.0.0.0 wdc88c0d61kj5raqed-giydemrshaztqnb.snr.whatsapp.net
 0.0.0.0 wdcd48dfd1kd6w2vsa-gu4domjwgaztqmd.snr.whatsapp.net
 0.0.0.0 we77704cc1ky7456tc-geytcobqgiztcmjy.snr.whatsapp.net
-0.0.0.0 web3490.oculusvr.com
-0.0.0.0 web3795.oculusvr.com
-0.0.0.0 web5862.oculusvr.com
-0.0.0.0 web11333autodiscover.oculusvr.com
-0.0.0.0 web11367.live.oculusvr.com
 0.0.0.0 web-prod.giphy.com
 0.0.0.0 web.beta.facebook.com
 0.0.0.0 web.facebook.com
@@ -18808,12 +18607,10 @@
 0.0.0.0 web.prod.facebook.com
 0.0.0.0 web.whatsapp.com
 0.0.0.0 webdav.facebook.com
-0.0.0.0 webdisk.lms.live.oculusvr.com
 0.0.0.0 webex.messenger.com
 0.0.0.0 webm.fbjs.facebook.com
 0.0.0.0 webmail.m.facebook.com
 0.0.0.0 wellbeing.instagram.com
-0.0.0.0 werkenopafstand.oculusvr.com
 0.0.0.0 wesleyanuk.facebook.com
 0.0.0.0 westwing.facebook.com
 0.0.0.0 wethinkdigital.fb.com
@@ -18966,7 +18763,6 @@
 0.0.0.0 workplacebcp.facebook.com
 0.0.0.0 workplacebcp.m.facebook.com
 0.0.0.0 workplaceblog.fb.com
-0.0.0.0 worldline1.oculusvr.com
 0.0.0.0 ws2.messenger.com
 0.0.0.0 ws-imaging-qa.giphy.com
 0.0.0.0 ws-imaging.giphy.com
@@ -18980,8 +18776,6 @@
 0.0.0.0 wwinternational.facebook.com
 0.0.0.0 www1.messenger.com
 0.0.0.0 www2.facebook.com
-0.0.0.0 www2.oculus.com
-0.0.0.0 www3.oculus.com
 0.0.0.0 www-cdn.whatsapp.net
 0.0.0.0 www-client.fbjs.facebook.com
 0.0.0.0 www-distance.cinyourrc.facebook.com
@@ -19353,7 +19147,6 @@
 0.0.0.0 www.demotrainingportal.fb.com
 0.0.0.0 www.deutschland.fb.com
 0.0.0.0 www.dev.facebook.com
-0.0.0.0 www.developer.oculusvr.com
 0.0.0.0 www.developers.intern.facebook.com
 0.0.0.0 www.developers.prod.facebook.com
 0.0.0.0 www.digitaleslernzentrum.fb.com
@@ -20437,8 +20230,6 @@
 0.0.0.0 www.nonprofits.fb.com
 0.0.0.0 www.o.beta.facebook.com
 0.0.0.0 www.o.facebook.com
-0.0.0.0 www.oculus.com
-0.0.0.0 www.oculusvr.com
 0.0.0.0 www.on.lite.facebook.com
 0.0.0.0 www.oo.lite.facebook.com
 0.0.0.0 www.opensource.fb.com
@@ -20743,7 +20534,6 @@
 0.0.0.0 www.sd.beta.facebook.com
 0.0.0.0 www.seformer.fb.com
 0.0.0.0 www.sh.beta.facebook.com
-0.0.0.0 www.share.oculusvr.com
 0.0.0.0 www.shemeansbusiness.fb.com
 0.0.0.0 www.si-chao.cstools.facebook.com
 0.0.0.0 www.si-lk.es-es.es-es.prod.facebook.com
@@ -22472,5 +22262,4 @@
 0.0.0.0 zurich.facebook.com
 0.0.0.0 zynga.facebook.com
 0.0.0.0 zz-tr.cinyour.facebook.com
-0.0.0.0 zzangfa.autodiscover.oculusvr.com
 0.0.0.0 privatestats.whatsapp.net
